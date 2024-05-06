@@ -1,11 +1,11 @@
 [
     {
         "id": "1",
-        "title": "Article Title",
+        "title": "Sample Article 1",
         "subtitle": "Subtitle",
         "intro": "Introduction",
         "articleUrl": "",
-        "thumbnailImageUrl": "https://example.com/thumbnail.jpg",
+        "thumbnailImageUrl": "https://github.com/rabeeqiblawi/Articles/blob/master/Test/wallpapersden.com_abstract-shapes-4k-materialistic_5120x2880.jpg",
         "dateCreated": "2022-01-01",
         "dateModified": "2022-01-02",
         "tags": [
