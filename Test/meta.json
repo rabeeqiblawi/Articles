@@ -1,0 +1,9 @@
+{
+    "title": "Your Article Title",
+    "subtitle": "Your Article Subtitle",
+    "intro": "Your Article Introduction",
+    "thumbnailImageUrl": "https://example.com/thumbnail.jpg",
+    "dateCreated": "2022-01-01",
+    "dateModified": "2022-01-02",
+    "tags": ["tag1", "tag2", "tag3"]
+}
