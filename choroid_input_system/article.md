@@ -97,11 +97,11 @@ You can use gestures and poses in the same way as both extend `Input Detector`.
 #### Composite Gestures/Poses
 One of the important features of this system is creating Composite Gestures. For example, detecting a flap action requires each arm to do a separate gesture.
 
-![image](https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/choroid_input_system/1_tOrV9p3guZE3xyylFHCbPA)
+![image](https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/choroid_input_system/1_tOrV9p3guZE3xyylFHCbPA.png)
 
 #### Unity Input Wrapper
 An important feature of this system is treating gestures the same way as VR poses and gestures. To do this, just add `UnityInputWrapper` script to any game object and you will be able to add an input action.
 
-![image](https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/choroid_input_system/1_vzf14vevOIp8GqDx8ZOR0w)
+![image](https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/choroid_input_system/1_vzf14vevOIp8GqDx8ZOR0w.png)
 
 This feature helps rapid prototyping where gestures and flaps are replaced with keyboard shortcuts.
