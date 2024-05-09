@@ -30,7 +30,7 @@ The system employs a composite gesture detector to recognize intricate gestures.
 #### Setting up the system
 This system works with any 6DOF tracking system, whether you are using Oculus, SteamVR, or any other VR rig. To start, all you have to do is add the VR Pose Input Manager to your scene; this script is a Singleton so it's preferred to be on your rig itself. Reference the tracked devices to this script, currently, this package only supports the head and the controllers and doesn't support full body tracking…
 
-![image](https://raw.githubusercontent.com/rabeeqiblawi/Articles/blob/master/choroid_input_system/1_HL2QWGYx6JSrrih5uPawUg.png)
+![image](https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/choroid_input_system/1_HL2QWGYx6JSrrih5uPawUg.png)
 
 For this system to work you should add a Velocity estimator script to each of the tracked devices, this script calculates the velocity of tracked devices based on the distance difference between frames.
 
