@@ -21,5 +21,28 @@
         "relatedArticleIDs": [
             "2"
         ]
+    },
+    {
+        "id": "2",
+        "title": "Choroid Input System",
+        "subtitle": "A VR Body Pose and Gesture Detection System",
+        "intro": "Introduction",
+        "articleUrl": "https://github.com/rabeeqiblawi/Articles/blob/master/choroid_input_system/article.md",
+        "thumbnailImageUrl": "https://github.com/rabeeqiblawi/Articles/blob/master/choroid_input_system/1_HL2QWGYx6JSrrih5uPawUg.png",
+        "dateCreated": "2024-05-09",
+        "dateModified": "2024-05-09",
+        "tags": [
+            "VR",
+            "Tech",
+            "Meta Quest 3"
+        ],
+        "keywords": [
+            "",
+            "",
+            ""
+        ],
+        "relatedArticleIDs": [
+            "2"
+        ]
     }
 ]
