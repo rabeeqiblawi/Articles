@@ -8,18 +8,11 @@
         "thumbnailImageUrl": "https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/Test/rust-social.jpg",
         "dateCreated": "2022-01-01",
         "dateModified": "2022-01-02",
+        "hidden": false,
         "tags": [
             "tag1",
             "tag2",
             "tag3"
-        ],
-        "keywords": [
-            "",
-            "",
-            ""
-        ],
-        "relatedArticleIDs": [
-            "2"
         ]
     },
     {
@@ -31,18 +24,26 @@
         "thumbnailImageUrl": "https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/choroid_input_system/1_HL2QWGYx6JSrrih5uPawUg.png",
         "dateCreated": "2024-05-09",
         "dateModified": "2024-05-09",
+        "hidden": false,
         "tags": [
             "VR",
             "Tech",
             "Meta Quest 3"
-        ],
-        "keywords": [
-            "",
-            "",
-            ""
-        ],
-        "relatedArticleIDs": [
-            "2"
+        ]
+    },{
+        "id": "3",
+        "title": "Sample Article 2",
+        "subtitle": "This is the second sample article ",
+        "intro": "Introduction",
+        "articleUrl": "https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/choroid_input_system/article.md",
+        "thumbnailImageUrl": "https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/choroid_input_system/1_HL2QWGYx6JSrrih5uPawUg.png",
+        "dateCreated": "2024-05-09",
+        "dateModified": "2024-05-09",
+        "hidden": false,
+        "tags": [
+            "VR",
+            "Tech",
+            "Meta Quest 2"
         ]
     }
 ]

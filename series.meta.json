@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1",
+        "seriesTitle": "Sample Series 1",
+        "description": "Description of the series",
+        "intro": "Introduction to the series",
+        "seriesSlug": "https://example.com/series1",
+        "thumbnailImageUrl": "https://example.com/images/series1.jpg",
+        "dateCreated": "2022-01-01",
+        "dateModified": "2022-01-02",
+        "tags": [
+            "seriesTag1",
+            "seriesTag2",
+            "seriesTag3"
+        ],
+        "articleIDs": [
+            "1",
+            "3"
+        ]
+    }
+]
