@@ -4,7 +4,7 @@
         "seriesTitle": "Sample Series 1",
         "description": "Description of the series",
         "intro": "Introduction to the series",
-        "seriesSlug": "https://example.com/series1",
+        "seriesSlug": "sample-series1",
         "thumbnailImageUrl": "https://example.com/images/series1.jpg",
         "dateCreated": "2022-01-01",
         "dateModified": "2022-01-02",
