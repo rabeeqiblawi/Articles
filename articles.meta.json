@@ -2,6 +2,7 @@
     {
         "id": "1",
         "title": "Sample Article 1",
+        "blogslug": "sample_article_1",
         "subtitle": "Subtitle",
         "intro": "Introduction",
         "articleUrl": "https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/Test/Test.md",
@@ -18,6 +19,7 @@
     {
         "id": "2",
         "title": "Choroid Input System",
+        "blogslug": "choroid_input_system",
         "subtitle": "A VR Body Pose and Gesture Detection System",
         "intro": "Introduction",
         "articleUrl": "https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/choroid_input_system/article.md",
@@ -33,6 +35,7 @@
     },{
         "id": "3",
         "title": "Sample Article 2",
+        "blogslug": "sample_article_2",
         "subtitle": "This is the second sample article ",
         "intro": "Introduction",
         "articleUrl": "https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/choroid_input_system/article.md",
