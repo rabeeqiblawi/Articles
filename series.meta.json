@@ -1,17 +1,17 @@
 [
     {
-        "id": "1",
-        "seriesTitle": "Sample Series 1",
-        "description": "Description of the series",
-        "intro": "Introduction to the series",
-        "seriesSlug": "sample-series1",
-        "thumbnailImageUrl": "https://example.com/images/series1.jpg",
-        "dateCreated": "2022-01-01",
-        "dateModified": "2022-01-02",
+        "id": "5",
+        "seriesTitle": "Intro to Game Development In Unity",
+        "description": "This is an Introductory series to Game Development in Unity 3D game engine.",
+        "intro": "",
+        "seriesSlug": "unity_intro_series",
+        "thumbnailImageUrl": "https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/unity.png",
+        "dateCreated": "2024-28-07",
+        "dateModified": "2024-28-07",
         "tags": [
-            "seriesTag1",
-            "seriesTag2",
-            "seriesTag3"
+            "Game Development",
+            "Unity3D",
+            "XR Dev"
         ],
         "articleIds": [
             "1",
