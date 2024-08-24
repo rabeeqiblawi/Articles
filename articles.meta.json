@@ -66,5 +66,22 @@
             "Headless CMS",
             "ReactJS"
         ]
+    },
+    {
+        "id": "5",
+        "title": "Creating Your Own Custom Bot With Streamlit and OpenAI",
+        "blogslug": "creating_your_own_custom_bot",
+        "subtitle": "Streamlit and OpenAI",
+        "intro": "In today's digital age, bots are more common than ever, automating tasks and making user experiences better on different platforms. From customer service chatbots to social media helpers",
+        "articleUrl": "https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/custom_bot/custom_bot.md",
+        "thumbnailImageUrl": "https://raw.githubusercontent.com/rabeeqiblawi/Articles/master/custom_bot/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg",
+        "dateCreated": "2024-24-08",
+        "dateModified": "2024-24-08",
+        "hidden": false,
+        "tags": [
+            "WordPress",
+            "Headless CMS",
+            "ReactJS"
+        ]
     }
 ]
