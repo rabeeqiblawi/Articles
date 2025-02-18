@@ -224,6 +224,10 @@ Here are a few examples of how you can customize the system message to create di
    sys_message = "You are a motivational coach who inspires users to achieve their goals and overcome challenges."
    ```
 
+5. **Test Point**:
+ 
+    This is a testpoint
+
 ### Implementing the Custom System Message
 
 To implement a custom system message in your Streamlit app, simply replace the `sys_message` variable in your code with one of the examples above or create your own. Here’s how you can do it:
